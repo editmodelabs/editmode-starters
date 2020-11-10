@@ -1,0 +1,9 @@
+{
+  "name": "react-native-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "workspaces": ["react-native", "react-native-web"],
+  "repository": "git@github.com:editmodelabs/editmode-starters.git",
+  "author": "BosEriko <bos.eriko@gmail.com>",
+  "license": "MIT"
+}
